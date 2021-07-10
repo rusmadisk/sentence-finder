@@ -10,8 +10,7 @@
 		}
 	],
 	"require": {
-		"guzzlehttp/guzzle": "~7.0",
-		"campo/random-user-agent": "^1.3"
+		"guzzlehttp/guzzle": "~7.0"
 	},
 	"require-dev": {
 		"kahlan/kahlan": "^3.0"
